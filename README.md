@@ -1,4 +1,4 @@
-<h1 align="center">What's up?</h1>
+<h1 align="left">What's up?</h1>
 <p><i>Software Engineering student at Yuriy Fedkovych Chernivtsi
 National University (currently studying)</i></p>
 

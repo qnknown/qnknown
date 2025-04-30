@@ -14,3 +14,5 @@ const me = {
   goal: "Senior level"
 }
 ```
+
+<img src="https://i.imgur.com/1HwPABI.png" alt="Stack_img"></img>

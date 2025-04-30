@@ -1,7 +1,6 @@
-<h1 align="center">About me</h1>
-<p>Versatile Front-End Developer with a strong foundation in HTML, CSS, JavaScript.
-Experienced in creating responsive, user-centered designs and bringing
-interactivity to life with modern front-end technologies. </p>
+<h1 align="center">What's up?</h1>
+<p><i>Software Engineering student at Yuriy Fedkovych Chernivtsi
+National University (currently studying)</i></p>
 
 <h1 align="center">My stack</h1>
 

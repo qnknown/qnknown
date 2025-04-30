@@ -1,8 +1,9 @@
 <h1 align="left">What's up?</h1>
-<p><i>Software Engineering student at Yuriy Fedkovych Chernivtsi
-National University (currently studying)</i></p>
 
 <img src="https://i.imgur.com/T7vhnjA.png" alt="About_img"></img>
+
+<p fontSize="20"><i>Software Engineering student at Yuriy Fedkovych Chernivtsi
+National University (currently studying)</i></p>
 
 ```
 const me = {

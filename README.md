@@ -2,7 +2,7 @@
 <p><i>Software Engineering student at Yuriy Fedkovych Chernivtsi
 National University (currently studying)</i></p>
 
-<h3>About me</h3>
+<h3>About me <></h3>
 
 ```
 const me = {

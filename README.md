@@ -1,4 +1,4 @@
-<h1 align="left">What's up?</h1>
+<h1 align="center">What's up?</h1>
 
 <img src="https://i.imgur.com/T7vhnjA.png" alt="About_img"></img>
 

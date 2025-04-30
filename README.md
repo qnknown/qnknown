@@ -1,5 +1,3 @@
-<h1 align="center">What's up?</h1>
-
 <img src="https://i.imgur.com/T7vhnjA.png" alt="About_img"></img>
 
 <p fontSize="20" align="center">Software Engineering student at Yuriy Fedkovych Chernivtsi

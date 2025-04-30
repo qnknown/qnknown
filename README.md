@@ -4,6 +4,8 @@ National University (currently studying)</i></p>
 
 <h3>About me <></h3>
 
+<img src="https://imgur.com/z5X4xjU"></img>
+
 ```
 const me = {
   stack: [Javascript, Typescript, HTML5, CSS3, Python],

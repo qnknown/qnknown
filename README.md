@@ -1,3 +1,10 @@
+<h1>Yo</h1>
+
+<h2>About me</h2>
+<p>Versatile Front-End Developer with a strong foundation in HTML, CSS, JavaScript.
+Experienced in creating responsive, user-centered designs and bringing
+interactivity to life with modern front-end technologies. </p>
+
 <h1 align="center">My stack</h1>
 
 <div align="center">
